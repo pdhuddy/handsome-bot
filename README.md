@@ -1,3 +1,3 @@
-"# handsome-bot" 
+# handsome-bot
 
 discord bot for fun
